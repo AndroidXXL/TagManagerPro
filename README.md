@@ -1,5 +1,7 @@
 # TagManagerPro
 
+Article: https://civitai.com/articles/12325/so-i-built-my-own-cross-platform-dataset-processor-for-lora-makers-that-is-all-about-speed
+
 [![Version](https://img.shields.io/badge/Version-3.0-blue.svg)](https://github.com/tagManagerPro)
 [![Python](https://img.shields.io/badge/Python-3.8+-green.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
