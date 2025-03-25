@@ -246,17 +246,4 @@ Search for files that have one tag but are missing another:
 
 ---
 
-## System Requirements
-
-- Python 3.8 or later
-- Required packages: tkinter, ttkbootstrap, pillow, wordcloud, requests, beautifulsoup4, platformdirs, gradio_client
-
-## Installation
-
-1. Clone the repository
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run the application: `python main.py`
-
----
-
 TagManagerPro is designed to help you efficiently manage tags for your image collection, whether you're organizing a small set of personal images or maintaining a large library of tagged content.
