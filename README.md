@@ -1,6 +1,6 @@
 # TagManagerPro
 
-[![Version](https://img.shields.io/badge/Version-2.0-blue.svg)](https://github.com/tagManagerPro)
+[![Version](https://img.shields.io/badge/Version-3.0-blue.svg)](https://github.com/tagManagerPro)
 [![Python](https://img.shields.io/badge/Python-3.8+-green.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
